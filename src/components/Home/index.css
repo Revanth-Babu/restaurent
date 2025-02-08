@@ -9,6 +9,7 @@
   box-shadow: 0px 10px 10px -15px #111;
 }
 
+
 .each-tab-item {
   list-style-type: none;
   flex-shrink: 0;
@@ -25,13 +26,13 @@
 }
 
 .tab-category-button {
-  color: inherit;
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 18px;
   padding: 0;
   border: none;
   background-color: transparent;
+  color: black;
 }
 
 .dishes-list-container {
